@@ -1,4 +1,4 @@
-1. # **Who May Use The Services.**
+1. ## **Who May Use The Services.**
 
 _We love our young fans, but you need to be 18 to use our App!_
 
@@ -6,7 +6,7 @@ You must be 18 years of age or older to use the Services. ****Additional aspects
 
 If we have previously prohibited you from accessing or using the Services, you are not permitted to access or use the Services. We also reserve the right to disable or close any Account at any time and for any reason or for no reason.
 
-2. # **Certain Definitions.** 
+2. ## **Certain Definitions.** 
 
 _Here is your guide to some of the often-used terms in this Agreement._
 
