@@ -1,4 +1,4 @@
-1. ## **Who May Use The Services.**
+1. ### **Who May Use The Services.**
 
 _We love our young fans, but you need to be 18 to use our App!_
 
